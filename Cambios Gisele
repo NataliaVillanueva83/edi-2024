@@ -1,0 +1,12 @@
+Estos son los cambios de Gisele
+    <tr>
+        <td>Demolisher</td>
+        <td>Player breach damage: 1.0 <br/> </td>
+        <td>Player breach damage: 2.0 <br/></td>
+    </tr>
+    <tr>
+        <td>Interceptor</td>
+        <td>Health: 40<br/>Cost: 1<br/>Attack Range: 4.5</td>
+        <td>Health: 30<br/>Cost: 2<br/>Attack Range: 3.5</td>
+    </tr>
+    </tbody>
